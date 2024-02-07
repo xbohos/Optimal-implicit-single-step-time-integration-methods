@@ -1,6 +1,5 @@
 # Optimal-implicit-single-step-time-integration-methods
 Reference: Zhang J. Optimal implicit single-step time integration methods with equivalence to the second-order-type linear multistep methods for structural dynamics: Accuracy analysis based on an analytical framework[J]. Computer Methods in Applied Mechanics and Engineering, 2024, 418: 116503.
-=====================================================
 
 The core files for this article include the following functions:
 
